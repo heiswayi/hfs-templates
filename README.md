@@ -2,7 +2,7 @@
 
 A collection of my [HFS](http://www.rejetto.com/hfs/) templates.
 
-###Screenshots
+##Screenshots
 
 AllyssaProperties
 ![AllyssaProperties](AllyssaProperties.png)
@@ -24,6 +24,6 @@ HelloKitty
 
 (c) 2010-2013 Heiswayi Nrird, [Komuniti Ishare](https://www.facebook.com/groups/komuniti.ishare/)
 
-#License
+##License
 
-[MIT License](http://heiswayi.github.io/mit-license)
+MIT License
