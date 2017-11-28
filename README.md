@@ -1,8 +1,8 @@
-#hfs-templates
+# hfs-templates
 
 An (archive) collection of my [HFS](http://www.rejetto.com/hfs/) templates. _(No longer be maintained.)_
 
-##Screenshots
+## Screenshots
 
 **AllyssaProperties**
 ![AllyssaProperties](AllyssaProperties.png)
@@ -22,10 +22,10 @@ An (archive) collection of my [HFS](http://www.rejetto.com/hfs/) templates. _(No
 **HelloKitty**
 ![HelloKitty](HelloKitty/HelloKitty.png)
 
-##Author
+## Author
 
 All of these templates (2010-2013) are written by Heiswayi Nrird for [Komuniti Ishare](https://www.facebook.com/groups/komuniti.ishare/).
 
-##License
+## License
 
 [MIT](LICENSE.md)
