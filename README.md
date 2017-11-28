@@ -1,6 +1,6 @@
 # hfs-templates
 
-An (archive) collection of my [HFS](http://www.rejetto.com/hfs/) templates. _(No longer be maintained.)_
+A collection of my [HFS](http://www.rejetto.com/hfs/) templates (2010-2013).
 
 ## Screenshots
 
